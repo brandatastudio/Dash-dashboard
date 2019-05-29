@@ -1,0 +1,8 @@
+The enviroment we are working locally, inside of anaconda is called  dashenv1
+the requierements.txt file, has the library versions we are using.
+The data is stored in the datawind.csv file
+
+This projects idea is to create custom dash dashboard, that allow interactive barplots, histograms and scatterplots.
+As dash requires the use of pyplot code, we have basic pyplot graphs examples in the pyplot basics folder.
+
+plotly version 2.7 is required, because afterwards there is a bug regarding the color agrgument when using markers.
